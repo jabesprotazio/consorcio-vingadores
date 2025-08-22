@@ -1,0 +1,44 @@
+ID US-101
+Título: Cadastro Rápido de Produto
+
+Eu como um Operador de Cadastro,
+Quero registrar um novo produto informando apenas nome, código de barras e preço,
+Para que eu possa dar entrada em novos itens de forma rápida para venda imediata.
+
+DoR
+
+[ ] A história foi discutida com o Product Owner (PO) e a equipe de desenvolvimento.
+
+[ ] Os Critérios de Aceite estão claros, são testáveis e foram validados pelo PO.
+
+[ ] As dependências (ex APIs, acesso ao banco de dados) foram identificadas.
+
+[ ] O protótipo ou wireframe da tela de cadastro está disponível e foi aprovado.
+
+[ ] A história foi estimada (pontuada) pela equipe de desenvolvimento.
+
+DoD
+
+[ ] O código foi desenvolvido e está em conformidade com os padrões do projeto.
+
+[ ] O código passou por um Code Review (Pull Request aprovado por outro desenvolvedor).
+
+[ ] Testes unitários foram criados e estão passando (cobertura mínima de 80% para as novas lógicas).
+
+[ ] Todos os Critérios de Aceite foram atendidos e validados em ambiente de teste (QA).
+
+[ ] Não existem bugs críticos ou de alta prioridade relacionados à funcionalidade.
+
+[ ] A funcionalidade foi aprovada pelo Product Owner (PO).
+
+[ ] O código foi integrado (merge) à branch principal de desenvolvimento (developmain).
+
+Critérios de Aceite
+Dado que preencho os campos Nome, Código de Barras e Preço de Venda.
+
+Quando clico em Salvar.
+
+Então o produto é criado no sistema com um departamento Padrão.
+
+E uma mensagem de sucesso é exibida.
+
