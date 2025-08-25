@@ -1,5 +1,5 @@
 
-# Título do Projeto
+# Atividade da História de Usuário "Gerenciamento de Estoque de um Supermercado"
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Neste repositório serão feitas contribuições sobre a história de usuário, com o fim de aperfeiçoa-la.
 
