@@ -5,6 +5,24 @@ Eu como um Operador de Cadastro,
 Quero registrar um novo produto informando apenas nome, código de barras e preço,
 Para que eu possa dar entrada em novos itens de forma rápida para venda imediata.
 
+
+**********************
+
+### Proposta de User Story de Desenvolvimento
+
+**ID**: DEV-101
+
+**Título**: Configurar Endpoint para Cadastro Rápido de Produto
+
+Descrição:
+Eu, como um Desenvolvedor Backend,
+Quero criar e configurar um endpoint na API de produtos,
+Para que o sistema de cadastro possa enviar requisições com nome, 
+código de barras e preço do produto, garantindo que os dados sejam validados e persistidos 
+corretamente no banco de dados.
+
+**********************
+
 DoR
 
 [ ] A história foi discutida com o Product Owner (PO) e a equipe de desenvolvimento.
